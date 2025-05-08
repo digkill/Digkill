@@ -8,7 +8,7 @@ CEO my company MediaRise
 
 ## **GitHub Statistics**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digkill&theme=solarized_dark)
 
 
 ![pv](https://pageview.vercel.app/?github_user=digkill)
